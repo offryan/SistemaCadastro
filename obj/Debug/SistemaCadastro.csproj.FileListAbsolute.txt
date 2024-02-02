@@ -1,0 +1,10 @@
+P:\repos\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+P:\repos\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+P:\repos\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+P:\repos\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.AssemblyReference.cache
+P:\repos\SistemaCadastro\obj\Debug\SistemaCadastro.Cadastro.resources
+P:\repos\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+P:\repos\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+P:\repos\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+P:\repos\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+P:\repos\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
